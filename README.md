@@ -1,2 +1,3 @@
-APi de integração com o VIA CEP.
-Destina-se ao uso para estudos com a linguagem GO. 
+APi for integration with VIA CEP. It is intended for use in studies with the GO language.
+In your request client (curl or postman), enter the data as shown in the example:
+http://localhost:8080?cep=??
